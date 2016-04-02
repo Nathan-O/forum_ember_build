@@ -1,6 +1,8 @@
-# ember_forum
+# Forum - EmberJS Build
 
-A test app that utilizes the [Wildland](https://github.com/wildland/) tech stack. The application itself is a simple forum that allows users to make posts and comment on the posts of others.
+### AKA - The Flame Hamster Discuss Den
+
+A test app that utilizes the [Wildland](https://github.com/wildland/) tech stack; an EmberJS application with a Rails API. The application itself is a simple forum that allows users to make posts and comment on the posts of others.
 
 ## Development Instructions
 ### System requirements
