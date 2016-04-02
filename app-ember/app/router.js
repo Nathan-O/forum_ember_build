@@ -18,6 +18,8 @@ Router.map(function() {
   this.route('edit-account', {
     path: '/edit-account/:user_id'
   });
+  
+  this.route('user');
 });
 
 export default Router;
